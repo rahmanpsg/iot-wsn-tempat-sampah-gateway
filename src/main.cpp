@@ -18,7 +18,7 @@ typedef struct pesan
 {
   int node;
   float tinggi;
-  float berat;
+  int berat;
 } pesan;
 
 pesan pesanMasuk;
